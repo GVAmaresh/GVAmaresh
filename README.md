@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm G V Amaresh</h1>
 <h3 align="center">💻 Software Developer | 🐍 Python & C/C++ Enthusiast | 🌍 Open Source Contributor | 📊 Passionate about DSA and its applications. | 🚀 Diving into Machine Learning and Deep Learning to create impactful solutions!</h3>
 
-- 🔭 I’m currently working on [Recognising Human and Robot audioio](ss)
+- 🔭 I’m currently working on [Recognising Human and Robot audio]()
 
-- 🌱 I’m currently learning **Golang, AWS, DSA,**
+- 🌱 I’m currently learning **Golang, AWS, DSA**
 
-- 👯 I’m looking to collaborate on [Explore Open Source Projects:](jjs)
+- 👯 I’m looking to collaborate on [Explore Open Source Projects]()
 
-- 🤝 I’m looking for help with [jjjj](jjj)
+<!-- - 🤝 I’m looking for help with [jjjj](jjj) -->
 
 - 👨‍💻 All of my projects are available at [https://gvamaresh.netlify.app/](https://gvamaresh.netlify.app/)
 
