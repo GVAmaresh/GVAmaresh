@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, AWS, DSA**
 
-- 👯 I’m looking to collaborate on [Explore Open Source Projects]()
+- 👯 I’m looking to collaborate on [the Job]()
 
 <!-- - 🤝 I’m looking for help with [jjjj](jjj) -->
 
