@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **reshama0302@gmail.com**
 
-- 📄 Know about my experiences [GVAmaresh_Resume]([https://drive.google.com/file/d/11d6DTRElnnyUWzTCF7RrztNcGyJruGrg/view?usp=drivesdk](https://drive.google.com/file/d/1fe2tLlg90yjDcskPW5S3omM28XZSnh5K/view))
+- 📄 Know about my experiences [GVAmaresh_Resume](https://drive.google.com/file/d/1fe2tLlg90yjDcskPW5S3omM28XZSnh5K/view)
 
 - ⚡ Fun fact **🚀 The first-ever computer bug was a real moth! In 1947, Grace Hopper found a moth causing issues in the Mark II computer. Since then, 'debugging' has taken on a whole new meaning! 🐛💻**
 
