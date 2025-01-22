@@ -9,7 +9,7 @@
 
 <!-- - 🤝 I’m looking for help with [jjjj](jjj) -->
 
-- 👨‍💻 All of my projects are available at [gvamaresh.netlify.app/(https://gvamaresh.netlify.app/)
+- 👨‍💻 All of my projects are available at [gvamaresh.netlify.app](https://gvamaresh.netlify.app/)
 
 - 💬 Ask me about **React, Typescript, Next.js, AWS, DSA, HTML, CSS, Javascript,**
 
