@@ -9,13 +9,13 @@
 
 <!-- - 🤝 I’m looking for help with [jjjj](jjj) -->
 
-- 👨‍💻 All of my projects are available at [https://gvamaresh.netlify.app/](https://gvamaresh.netlify.app/)
+- 👨‍💻 All of my projects are available at [gvamaresh.netlify.app/(https://gvamaresh.netlify.app/)
 
 - 💬 Ask me about **React, Typescript, Next.js, AWS, DSA, HTML, CSS, Javascript,**
 
 - 📫 How to reach me **reshama0302@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11d6DTRElnnyUWzTCF7RrztNcGyJruGrg/view?usp=drivesdk](https://drive.google.com/file/d/11d6DTRElnnyUWzTCF7RrztNcGyJruGrg/view?usp=drivesdk)
+- 📄 Know about my experiences [GVAmaresh_Resume]([https://drive.google.com/file/d/11d6DTRElnnyUWzTCF7RrztNcGyJruGrg/view?usp=drivesdk](https://drive.google.com/file/d/1fe2tLlg90yjDcskPW5S3omM28XZSnh5K/view))
 
 - ⚡ Fun fact **🚀 The first-ever computer bug was a real moth! In 1947, Grace Hopper found a moth causing issues in the Mark II computer. Since then, 'debugging' has taken on a whole new meaning! 🐛💻**
 
